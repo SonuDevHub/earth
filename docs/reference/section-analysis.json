@@ -1,0 +1,487 @@
+[
+  {
+    "type": "navbar",
+    "className": "center-nav-menu w-nav-menu",
+    "html": "<nav role=\"navigation\" class=\"center-nav-menu w-nav-menu\"><div class=\"menu-item-nav\"><a href=\"/\" aria-current=\"page\" class=\"menu-item w-nav-link\">Home</a><a href=\"/about\" class=\"menu-item w-nav-link\">About</a><a href=\"/campaign\" class=\"menu-item w-nav-link\">Campaign</a></div></nav>"
+  },
+  {
+    "index": 0,
+    "className": "hero-section",
+    "height": 900,
+    "bgColor": "rgb(24, 24, 24)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h1": "Protect Nature, Preserve Our Future"
+    },
+    "excerpt": "Join hands with OnEarth to safeguard forests, oceans, and wildlife for generations to come. Every sm",
+    "buttons": [
+      {
+        "text": "GET INVOLVEDGET INVOLVED",
+        "className": "white-button w-inline-block"
+      }
+    ],
+    "images": [],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "overlay-img",
+        "childrenCount": 0
+      },
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "className": "vision-mission-section",
+    "height": 624,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h2": "Conserve ecosystems through impactful projects empower",
+      "h3": "local communities with sustainable solutions, and inspire individuals to take action for the planet."
+    },
+    "excerpt": "GUIDING OUR PATH",
+    "buttons": [],
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699cda33dda7180b94d7a6fb_Image%20Vision.avif",
+        "className": "image-placeholder",
+        "alt": "Two hands holding soil with a small green plant growing from it over blurred grass background."
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699ce025ce80f598c9eb3785_icon%20vision.avif",
+        "className": "image-placeholder",
+        "alt": "Three young women planting a small tree sapling together in a forest with sunlight filtering through the trees."
+      }
+    ],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "className": "about-section",
+    "height": 755,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h2": "Rooted in Conservation",
+      "h3": "Coral Reef Revival"
+    },
+    "excerpt": "ABOUT",
+    "buttons": [
+      {
+        "text": "ConservationCoral Reef RevivalRestoring reefs and marine life across Southeast Asia.DONATE NOW",
+        "className": "campaign-featured w-inline-block"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/69a531cb97dc94948dc012f1_arrow.svg",
+        "className": "icon-16px",
+        "alt": "arrow icon"
+      }
+    ],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "className": "initiatives-section",
+    "height": 755,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h1": "Building Nature’s Future",
+      "h2": "Forest Restoration"
+    },
+    "excerpt": "INITIATIVES",
+    "buttons": [],
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699ce562e210b64f21068c12_initiatives.avif",
+        "className": "image-placeholder",
+        "alt": "Woman in a green shirt gently touching the tusk of an Asian elephant in a lush forest setting."
+      }
+    ],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "className": "number-section",
+    "height": 208,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h1": "80+"
+    },
+    "excerpt": "We work with communities worldwide to protect nature and create lasting impact.",
+    "buttons": [],
+    "images": [],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "className": "featured-section",
+    "height": 1225,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h2": "Highlighted Nature Projects",
+      "h3": "Coral Reef Revival"
+    },
+    "excerpt": "FEATURED PROJECTS",
+    "buttons": [
+      {
+        "text": "GET INVOLVEDGET INVOLVED",
+        "className": "green-button w-inline-block"
+      },
+      {
+        "text": "READ MORE",
+        "className": "text-button w-inline-block"
+      },
+      {
+        "text": "READ MORE",
+        "className": "text-button w-inline-block"
+      },
+      {
+        "text": "READ MORE",
+        "className": "text-button w-inline-block"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/69a4bffd90116dace0d3966a/69a52a871bc2beafb5455003_Image-1.jpg",
+        "className": "image-placeholder",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/69a4bffd90116dace0d3966a/69a52665b5ebec55d1190cc3_Image.jpg",
+        "className": "image-placeholder",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/69a4bffd90116dace0d3966a/69a519f7e504a9a97581e6ec_Image.jpg",
+        "className": "image-placeholder",
+        "alt": ""
+      }
+    ],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "className": "partnership-section",
+    "height": 88,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {},
+    "excerpt": "PARTNERSHIP",
+    "buttons": [],
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699cf7e314972215206a3045_Logo%201.svg",
+        "className": "logo-partnership",
+        "alt": "partnership logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699cf7e382a6c4a2051b9dae_Logo%204.svg",
+        "className": "logo-partnership",
+        "alt": "partnership logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699cf7e37c5b13f17db1cf3e_Logo%203.svg",
+        "className": "logo-partnership",
+        "alt": "partnership logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699cf7e314972215206a3045_Logo%201.svg",
+        "className": "logo-partnership",
+        "alt": "partnership logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699cf7e382a6c4a2051b9dae_Logo%204.svg",
+        "className": "logo-partnership",
+        "alt": "partnership logo"
+      }
+    ],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "className": "campaign-section",
+    "height": 733,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h1": "Protecting Nature Together",
+      "h2": "Wild for Wildlife",
+      "h3": "April 9, 2028"
+    },
+    "excerpt": "CAMPAIGNS",
+    "buttons": [
+      {
+        "text": "ProtectionWild for WildlifeWild for WildlifeProtecting endangered wildlife habitats through conservation.End date:April 9, 2028LEARN MORE",
+        "className": "campaign-card w-inline-block"
+      },
+      {
+        "text": "RestorationSierra Greenbelt RevivalSierra Greenbelt RevivalReforesting degraded lands with experienced local communities.End date:February 15, 2028LEARN MORE",
+        "className": "campaign-card w-inline-block"
+      },
+      {
+        "text": "ProtectionOceans Without PlasticOceans Without PlasticFighting ocean plastic pollution along vulnerable coastlines.End date:November 3, 2028LEARN MORE",
+        "className": "campaign-card w-inline-block"
+      },
+      {
+        "text": "RestorationSierra Greenbelt RevivalReforesting degraded lands with experienced local communities.END DATE:February 15, 2028LEARN MORE",
+        "className": "campaign-card w-inline-block"
+      },
+      {
+        "text": "RestorationSave the RainforestRestoring Amazon forests & biodiversity for future generations.END DATE:March 3, 2029LEARN MORE",
+        "className": "campaign-card w-inline-block"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/69a4bffd90116dace0d3966a/69a528ef95a92b1d4033bcb9_Image.jpg",
+        "className": "image-placeholder",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/69a4bffd90116dace0d3966a/69a5245d4598bf858005a9bb_Image.jpg",
+        "className": "image-placeholder",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/69a4bffd90116dace0d3966a/69a4dd99eaa53e19261e7cdb_ocean.jpg",
+        "className": "image-placeholder",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/69a4bffd90116dace0d3966a/69a5245d4598bf858005a9bb_Image.jpg",
+        "className": "image-placeholder",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/69a4bffd90116dace0d3966a/69a519f7e504a9a97581e6ec_Image.jpg",
+        "className": "image-placeholder",
+        "alt": ""
+      }
+    ],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "className": "cta-section",
+    "height": 500,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h2": "Together, We Can Make a Difference"
+    },
+    "excerpt": "Your support helps us protect nature, empower communities, and secure a sustainable future for gener",
+    "buttons": [
+      {
+        "text": "GET INVOLVEDGET INVOLVED",
+        "className": "white-button w-inline-block"
+      }
+    ],
+    "images": [],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "className": "team-section",
+    "height": 640,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {},
+    "excerpt": "PARTNERSHIP",
+    "buttons": [
+      {
+        "text": "",
+        "className": "socmed-icon w-inline-block"
+      },
+      {
+        "text": "",
+        "className": "socmed-icon w-inline-block"
+      },
+      {
+        "text": "",
+        "className": "socmed-icon w-inline-block"
+      },
+      {
+        "text": "",
+        "className": "socmed-icon w-inline-block"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699d0f024db501763ff9be7b_Team%201.avif",
+        "className": "image-placeholder",
+        "alt": "Young man with blonde hair wearing a green shirt, standing outdoors with arms crossed and trees in the background."
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/69ae392aa7039fe43685b6b6_InstagramLogoHover.svg",
+        "className": "image-2",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699d0f02fa7611d9fd9a088b_Team%202.avif",
+        "className": "image-placeholder",
+        "alt": "Young woman with long black hair wearing dark green shirt smiling outdoors with blurred forest background."
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/69ae392aa7039fe43685b6b6_InstagramLogoHover.svg",
+        "className": "image-2",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699d0f02cd9fb7e364aa8772_Team%203.avif",
+        "className": "image-placeholder",
+        "alt": "Smiling woman with long blonde hair wearing a dark green button-up shirt standing outdoors in a blurred forest background."
+      }
+    ],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "className": "faq-section",
+    "height": 663,
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {
+      "h2": "All You Need to Know",
+      "h3": "HAVE ANY QUESTIONS?"
+    },
+    "excerpt": "FREQUENTLY ASKED QUESTIONS",
+    "buttons": [
+      {
+        "text": "REACH OUTREACH OUT",
+        "className": "green-button w-inline-block"
+      }
+    ],
+    "images": [],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "className": "footer-section",
+    "height": 429,
+    "bgColor": "rgb(24, 24, 24)",
+    "padding": "0px 0px 0px 0px",
+    "headings": {},
+    "excerpt": "Subscribe to get the latest updates, tips, and inspiring stories From OnEarth to stay connected and ",
+    "buttons": [
+      {
+        "text": "Home",
+        "className": "footer-link"
+      },
+      {
+        "text": "About",
+        "className": "footer-link"
+      },
+      {
+        "text": "Campaign",
+        "className": "footer-link"
+      },
+      {
+        "text": "Contact",
+        "className": "footer-link"
+      },
+      {
+        "text": "Licenses",
+        "className": "footer-link"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/699d1cceafab459a7be51692_Logo%202.svg",
+        "className": "logo-brand",
+        "alt": "logo brand"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/69a6a125d9638de575aafef5_InstagramLogo.svg",
+        "className": "",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/69a6a12598798a96f3a0801d_FacebookLogo.svg",
+        "className": "",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/699ccf3ba3422982afa62be0/69a6a125dd4ede665abc8e58_YoutubeLogo.svg",
+        "className": "",
+        "alt": ""
+      }
+    ],
+    "containers": [
+      {
+        "tag": "div",
+        "className": "container",
+        "childrenCount": 1
+      }
+    ]
+  }
+]

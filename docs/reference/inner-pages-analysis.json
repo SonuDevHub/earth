@@ -1,0 +1,166 @@
+{
+  "about": [
+    {
+      "className": "inner-header-section",
+      "height": 480,
+      "heading": "Together for a Greener Tomorrow",
+      "excerpt": "OnEarth unites people, partners, and communities around the world to protect nat"
+    },
+    {
+      "className": "message-section",
+      "height": 456,
+      "heading": "For years, OnEarth has been driven by a simple belief: nature sustains us, and we must sustain it. Our journey has grown from grassroots advocacy to global action, shaped by people who refuse to stay silent about the planet’s future.",
+      "excerpt": "INSPIRATION FROM OUR FOUNDER"
+    },
+    {
+      "className": "core-values-section",
+      "height": 796,
+      "heading": "250+",
+      "excerpt": "CORE VALUES"
+    },
+    {
+      "className": "goal-section",
+      "height": 575,
+      "heading": "Our Commitment For The Future",
+      "excerpt": "VISION MISSION"
+    },
+    {
+      "className": "cta-about-section",
+      "height": 500,
+      "heading": "Respect Nature, Protect Life",
+      "excerpt": "GET INVOLVED"
+    },
+    {
+      "className": "milestone-section",
+      "height": 1644,
+      "heading": "Milestones That Inspire Us",
+      "excerpt": "ACHIEVEMENTS"
+    },
+    {
+      "className": "team-core-section",
+      "height": 535,
+      "heading": "The Faces of Our Mission",
+      "excerpt": "TEAM"
+    },
+    {
+      "className": "footer-section",
+      "height": 429,
+      "heading": "",
+      "excerpt": "Subscribe to get the latest updates, tips, and inspiring stories From OnEarth to"
+    }
+  ],
+  "campaign": [
+    {
+      "className": "inner-header-section",
+      "height": 550,
+      "heading": "Together, We Power Environmental Change",
+      "excerpt": "Support campaigns protecting forests, oceans, wildlife, and communities worldwid"
+    },
+    {
+      "className": "all-campaign-section",
+      "height": 1716,
+      "heading": "Campaigns Making an Impact",
+      "excerpt": "ALL CAMPAIGNS"
+    },
+    {
+      "className": "volunteer-section",
+      "height": 598,
+      "heading": "Join the Movement, Shape the Future",
+      "excerpt": "BECOME A VOLUNTEER"
+    },
+    {
+      "className": "area-section",
+      "height": 384,
+      "heading": "02",
+      "excerpt": "ENDANGERED AREA"
+    },
+    {
+      "className": "footer-section",
+      "height": 429,
+      "heading": "",
+      "excerpt": "Subscribe to get the latest updates, tips, and inspiring stories From OnEarth to"
+    }
+  ],
+  "campaign-detail": [
+    {
+      "className": "campaign-detail-section",
+      "height": 480,
+      "heading": "Coral Reef Revival",
+      "excerpt": "A restoration campaign to rebuild damaged coral reefs, protect marine biodiversi"
+    },
+    {
+      "className": "overview-section",
+      "height": 571,
+      "heading": "Understanding the Crisis",
+      "excerpt": "OVERVIEW"
+    },
+    {
+      "className": "objective-section",
+      "height": 436,
+      "heading": "Nurturing Campaign Objectives",
+      "excerpt": "CAMPAIGN OBJECTIVES"
+    },
+    {
+      "className": "campaign-testimonial-section",
+      "height": 434,
+      "heading": "“Healthy reefs mean healthy oceans. When coral thrives, entire ecosystems and coastal communities can thrive too.”",
+      "excerpt": "VOICES FOR THIS CAMPAIGN"
+    },
+    {
+      "className": "strategy-section",
+      "height": 527,
+      "heading": "A Strategy for a Healthier Future",
+      "excerpt": "APPROACH"
+    },
+    {
+      "className": "donation-section",
+      "height": 728,
+      "heading": "Choose the Amount, Change the Future",
+      "excerpt": "CUSTOM DONATION FORM"
+    },
+    {
+      "className": "other-campaign-section",
+      "height": 534,
+      "heading": "Explore Other Active Campaigns",
+      "excerpt": "OTHER CAMPAIGNS"
+    },
+    {
+      "className": "footer-section",
+      "height": 429,
+      "heading": "",
+      "excerpt": "Subscribe to get the latest updates, tips, and inspiring stories From OnEarth to"
+    }
+  ],
+  "contact": [
+    {
+      "className": "contact-page-section",
+      "height": 480,
+      "heading": "Get in Touch With OnEarth",
+      "excerpt": "Whether you have questions, partnership ideas, or want to support our conservati"
+    },
+    {
+      "className": "contact-info-section",
+      "height": 863,
+      "heading": "Guide to Reaching Out",
+      "excerpt": "CONTACT INFORMATION"
+    },
+    {
+      "className": "contact-form",
+      "height": 777,
+      "heading": "Let’s Hear From You",
+      "excerpt": "SEND US A MESSAGE"
+    },
+    {
+      "className": "contact-faq-section",
+      "height": 512,
+      "heading": "All You Need to Know",
+      "excerpt": "FREQUENTLY ASKED QUESTIONS"
+    },
+    {
+      "className": "footer-section",
+      "height": 429,
+      "heading": "",
+      "excerpt": "Subscribe to get the latest updates, tips, and inspiring stories From OnEarth to"
+    }
+  ]
+}
